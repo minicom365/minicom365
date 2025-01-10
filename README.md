@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minicom365
-- 👀 I’m interested in ... 3D printer, klipper, python
+- 👀 I’m interested in ... python
 - 🌱 I’m currently learning ... github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 3387910@naver.com
